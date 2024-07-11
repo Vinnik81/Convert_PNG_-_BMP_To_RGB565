@@ -1,0 +1,9 @@
+debug/
+
+*.log
+
+release/
+
+*.dll
+
+*.exe
